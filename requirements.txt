@@ -1,10 +1,10 @@
 Flask==2.0.1
-pandas==1.3.0
+pandas==1.1.5
 xlsxwriter==1.4.4
 requests==2.26.0
 Pillow==8.3.2
 piexif==1.1.3
 setuptools>=51.0.0
 Werkzeug==2.0.3
-numpy==1.21.0
+numpy==1.19.5
 wheel
